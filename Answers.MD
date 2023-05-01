@@ -55,6 +55,45 @@
 
 **3. What are the 25th, 50th and 75th percentile values for the revenue per transaction?** 
 
+![a6](https://user-images.githubusercontent.com/130475600/235461570-8de88e86-7bad-4ebd-a11d-e954727b7466.PNG)
+
 | Percentile_25 | Percentile_50 | Percentile_75 |
 | -------------- | ------ | ------ |
 | 375.75         | 509.5 | 647 |
+
+**4. What is the average discount value per transaction?**
+
+![a7](https://user-images.githubusercontent.com/130475600/235462829-c44ad839-8944-4783-98f6-f96df005c4f8.PNG)
+
+| avg_discount_value |
+| ------------------ |
+| 62                 |
+
+**5. What is the percentage split of all transactions for members vs non-members?** 
+
+![a8](https://user-images.githubusercontent.com/130475600/235464313-663fa357-86ca-4a2e-95f6-583b3baca560.PNG)
+
+| member_split | non_member_split |
+| ------------ | ---------------- |
+| 60.00        | 40.00            |
+
+**6. What is the average revenue for member transactions and non-member transactions?**
+
+![a9](https://user-images.githubusercontent.com/130475600/235465280-1866bc19-2b63-4902-89e1-76b9b52e3301.PNG)
+
+| member | average |
+| ------ | ------- |
+| false  | 515     |
+| true   | 516     |
+
+# Product Analysis
+
+**1.What are the top 3 products by total revenue before discount?**
+
+![a10](https://user-images.githubusercontent.com/130475600/235466262-8497a86b-fda8-4dc5-975c-51f33b69d255.PNG)
+
+| product_name                 | revenue |
+| ---------------------------- | ------- |
+| Blue Polo Shirt - Mens       | 217683  |
+| Grey Fashion Jacket - Womens | 209304  |
+| White Tee Shirt - Mens       | 152000  |
