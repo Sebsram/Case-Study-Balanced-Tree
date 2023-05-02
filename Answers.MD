@@ -97,3 +97,43 @@
 | Blue Polo Shirt - Mens       | 217683  |
 | Grey Fashion Jacket - Womens | 209304  |
 | White Tee Shirt - Mens       | 152000  |
+
+**2. What is the total quantity, revenue and discount for each segment?** 
+
+![a11](https://user-images.githubusercontent.com/130475600/235805727-2d98eed4-8ac1-4f17-83c7-6f9ef6a84da8.PNG)
+
+| segment_name | t_quantity | t_revenue | t_discount |
+| ------------ | ---------- | --------- | ---------- |
+| Shirt        | 11265      | 406143    | 49594      |
+| Jacket       | 11385      | 366983    | 44277      |
+| Socks        | 11217      | 307977    | 37013      |
+| Jeans        | 11349      | 208350    | 25343      |
+
+**3. What is the top selling product for each segment?
+
+![a12](https://user-images.githubusercontent.com/130475600/235806741-5241fa56-cd78-4d00-b548-b9ef49d2a6af.PNG)
+
+| segment_name | product_id | product_name                     | product_quantity |
+| ------------ | ---------- | -------------------------------- | ---------------- |
+| Jacket       | 9ec847     | Grey Fashion Jacket - Womens     | 3876             |
+| Jeans        | c4a632     | Navy Oversized Jeans - Womens    | 3856             |
+| Shirt        | 2a2353     | Blue Polo Shirt - Mens           | 3819             |
+| Shirt        | 5d267b     | White Tee Shirt - Mens           | 3800             |
+| Socks        | f084eb     | Navy Solid Socks - Mens          | 3792             |
+| Jeans        | e83aa3     | Black Straight Jeans - Womens    | 3786             |
+| Socks        | 2feb6b     | Pink Fluro Polkadot Socks - Mens | 3770             |
+| Jacket       | 72f5d4     | Indigo Rain Jacket - Womens      | 3757             |
+| Jacket       | d5e9a6     | Khaki Suit Jacket - Womens       | 3752             |
+| Jeans        | e31d39     | Cream Relaxed Jeans - Womens     | 3707             |
+| Socks        | b9a74d     | White Striped Socks - Mens       | 3655             |
+| Shirt        | c8d436     | Teal Button Up Shirt - Mens      | 3646             |
+
+**4. What is the total quantity, revenue and discount for each category?**
+
+![a13](https://user-images.githubusercontent.com/130475600/235807613-b05cc7e4-8e58-44f1-8d3f-4d1bdef68fe7.PNG)
+
+| category_name | l_quantity | t_revenue | t_discount |
+| ------------- | ---------- | --------- | ---------- |
+| Mens          | 22482      | 714120    | 86607      |
+| Womens        | 22734      | 575333    | 69621      |
+
