@@ -62,6 +62,3 @@ balanced_tree.product_hierarchy
 7. What is the percentage split of revenue by segment for each category?
 8. What is the percentage split of total revenue by category?
 9. What is the total transaction “penetration” for each product? (hint: penetration = number of transactions where at least 1 quantity of a product was purchased divided by total number of transactions)
-
-10.What is the most common combination of at least 1 quantity of any 3 products in a 1 single transaction?
-
