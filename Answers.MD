@@ -137,3 +137,65 @@
 | Mens          | 22482      | 714120    | 86607      |
 | Womens        | 22734      | 575333    | 69621      |
 
+**5. What is the top selling product for each category?**
+
+![a14](https://user-images.githubusercontent.com/130475600/235940031-f6f9b367-e6be-454b-91be-33334ab5cb44.PNG)
+
+| category_name | product_name                     | product_id | t_sales |
+| ------------- | -------------------------------- | ---------- | ------- |
+| Womens        | Grey Fashion Jacket - Womens     | 9ec847     | 3876    |
+| Womens        | Navy Oversized Jeans - Womens    | c4a632     | 3856    |
+| Mens          | Blue Polo Shirt - Mens           | 2a2353     | 3819    |
+| Mens          | White Tee Shirt - Mens           | 5d267b     | 3800    |
+| Mens          | Navy Solid Socks - Mens          | f084eb     | 3792    |
+| Womens        | Black Straight Jeans - Womens    | e83aa3     | 3786    |
+| Mens          | Pink Fluro Polkadot Socks - Mens | 2feb6b     | 3770    |
+| Womens        | Indigo Rain Jacket - Womens      | 72f5d4     | 3757    |
+| Womens        | Khaki Suit Jacket - Womens       | d5e9a6     | 3752    |
+| Womens        | Cream Relaxed Jeans - Womens     | e31d39     | 3707    |
+| Mens          | White Striped Socks - Mens       | b9a74d     | 3655    |
+| Mens          | Teal Button Up Shirt - Mens      | c8d436     | 3646    |
+
+**6. What is the percentage split of revenue by product for each segment?**
+
+![a15](https://user-images.githubusercontent.com/130475600/235943332-5818ccf2-8e10-4eb2-ae1a-21fa4b9ab475.PNG)
+
+| segment_name | product_name                     | segment_percentage |
+| ------------ | -------------------------------- | ------------------ |
+| Jacket       | Grey Fashion Jacket - Womens     | 57.03              |
+| Jacket       | Khaki Suit Jacket - Womens       | 23.51              |
+| Jacket       | Indigo Rain Jacket - Womens      | 19.45              |
+| Jeans        | Black Straight Jeans - Womens    | 58.15              |
+| Jeans        | Navy Oversized Jeans - Womens    | 24.06              |
+| Jeans        | Cream Relaxed Jeans - Womens     | 17.79              |
+| Shirt        | Blue Polo Shirt - Mens           | 53.60              |
+| Shirt        | White Tee Shirt - Mens           | 37.43              |
+| Shirt        | Teal Button Up Shirt - Mens      | 8.98               |
+| Socks        | Navy Solid Socks - Mens          | 44.33              |
+| Socks        | Pink Fluro Polkadot Socks - Mens | 35.50              |
+| Socks        | White Striped Socks - Mens       | 20.18              |
+
+**7. What is the percentage split of revenue by segment for each category?**
+
+![a16](https://user-images.githubusercontent.com/130475600/235944334-9686a28a-3c81-4a0f-b7e1-9b046c24cf79.PNG)
+
+| category_name | segment_name | cat_percentage |
+| ------------- | ------------ | -------------- |
+| Mens          | Shirt        | 56.87          |
+| Mens          | Socks        | 43.13          |
+| Womens        | Jacket       | 63.79          |
+| Womens        | Jeans        | 36.21          |
+
+**8. What is the percentage split of total revenue by category?** 
+
+![a17](https://user-images.githubusercontent.com/130475600/235947179-3a25b84f-118f-4c49-b8b0-fe56e9e9aae4.PNG)
+
+| first_category | second_category |
+| -------------- | --------------- |
+| 44.00          | 56.00           |
+
+**9. What is the total transaction “penetration” for each product? (hint: penetration = number of transactions where at least 1 quantity of a product was purchased divided by total number of transactions)**
+
+![a18](https://user-images.githubusercontent.com/130475600/235956506-29fb2645-e72f-4f23-9feb-2be7c0a3d2bb.PNG)
+
+
